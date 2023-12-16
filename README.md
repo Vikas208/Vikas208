@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vikas Prajapati<br>A passionate Software engineer from India<br><br>- 🌱 I’m currently learning **ML**<br><br>- 💬 Ask me about **react,node js,go,javascript**<br><br>- 📫 How to reach me vp103808@gmail.com
+Hi 👋, I'm Vikas Prajapati<br>A passionate Software engineer from India<br><br><br><br>- 💬 Ask me about **react,node js,go,javascript**<br><br>- 📫 How to reach me vp103808@gmail.com
 
 
 ## 🌐 Socials:
